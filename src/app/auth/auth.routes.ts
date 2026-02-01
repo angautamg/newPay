@@ -18,6 +18,11 @@ export const AUTH_ROUTES: Routes = [
     canActivate: [authGuard]
   },
   {
+    path: 'payment',
+    loadComponent: () => import('./components/payment/payment.component').then(m => m.PaymentComponent),
+    canActivate: [authGuard]
+  },
+  {
     path: '',
     redirectTo: 'login',
     pathMatch: 'full'

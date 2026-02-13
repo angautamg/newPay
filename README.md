@@ -3,6 +3,13 @@
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.5.
 
 ## Development server
+### 🚀 Use Dashboard Part
+
+👉 **[Open Dashboard Repository](https://github.com/angautamg/newPayDashboard)**
+
+### Use Dashboard Part
+
+[![Open Dashboard](https://img.shields.io/badge/Dashboard-Repository-blue)](https://github.com/angautamg/newPayDashboard)
 
 To start a local development server, run:
 
